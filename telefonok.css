@@ -1,0 +1,16 @@
+h1{
+    text-align: center;
+    color: aliceblue;
+    font-size: xx-large;
+}
+body{
+    background-color: black;
+}
+.termeklink{
+        color: white;
+    text-decoration: none;
+}
+p{
+    text-align: center;
+    font-size: larger;
+}
